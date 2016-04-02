@@ -1,0 +1,19 @@
+{
+  "name": "lab3",
+  "homepage": "https://github.com/AntanikMitra/comp1073_lab3",
+  "authors": [
+    "antanikmitra <antanikmitra@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
